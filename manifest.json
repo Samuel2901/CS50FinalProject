@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Replacer",
+    "version": "1.0",
+
+    "description": "Replaces word in forms",
+
+    "action":{
+        "default_title": "Replacer",
+        "default_popup": "index.html",
+        "default_icon":{
+            "1000": "logo.png"
+        }
+    }
+}
