@@ -1,0 +1,4 @@
+Replacer
+Browser extension hvor du kan tilføje ord som den udskifter til noget andet på siden
+fx @@ til email
+eller tlf til telefonummer
