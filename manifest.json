@@ -5,6 +5,10 @@
 
     "description": "Replaces word in forms",
 
+    "icons":{
+        "1000":"logo.png"
+    },
+
     "action":{
         "default_title": "Replacer",
         "default_popup": "index.html",
