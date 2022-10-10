@@ -9,7 +9,7 @@
         "1000":"logo.png"
     },
 
-    "permissions":["activeTab"],
+    "permissions":["activeTab", "scripting"],
 
     "background": {
         "service_worker": "background.js"
@@ -21,5 +21,14 @@
         "default_icon":{
             "1000": "logo.png"
         }
-    }
+    },
+
+    "commands": {
+        "_execute_action": {
+          "suggested_key": {
+            "default": "Ctrl+U",
+            "mac": "Command+U"
+          }
+        }
+      }
 }
