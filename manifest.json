@@ -9,6 +9,12 @@
         "1000":"logo.png"
     },
 
+    "permissions":["activeTab"],
+
+    "background": {
+        "service_worker": "background.js"
+    },
+
     "action":{
         "default_title": "Replacer",
         "default_popup": "index.html",
